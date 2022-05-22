@@ -7,7 +7,7 @@ Portfolio Site showcasing projects I have recently completed and different ways 
 
 <br>
 
-Link to site: [raquelgo-v2.netlify.app](raquelgo-v2.netlify.app)
+Link to site: [https://raquelgo-v2.netlify.app/](https://raquelgo-v2.netlify.app/)
 
 ## How It's Made
 Tech used: HTML5, CSS3, Sass, JavaScript
